@@ -9,5 +9,3 @@ if test == 10 then
 else
 	print("10")
 end
-
-ServerStorag
