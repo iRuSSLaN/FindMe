@@ -1,0 +1,12 @@
+[package]
+name = "ruslan/findme"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Promise = "evaera/promise@4.0.0"
+Networker = "leifstout/networker@0.2.1"
+
+[server-dependencies]
+Profileservice = "firecam702/profileservice@1.0.0"
